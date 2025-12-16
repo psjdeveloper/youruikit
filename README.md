@@ -4,6 +4,7 @@
 # youruikit
 
 **A lightweight React UI kit for indie developers by Vyoma Labs**
+!(logo.png)[logo for youruikit]
 
 `youruikit` is a lightweight React component library designed **for indie developers**. It provides **ready-to-use, customizable components** so you can build beautiful UIs faster.
 
